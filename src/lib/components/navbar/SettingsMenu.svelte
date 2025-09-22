@@ -138,7 +138,7 @@
         : "sermas-kiosk";
 
     const url = newGithubIssueUrl({
-      user: "sermas-eu",
+      user: "TODO",
       repo,
       labels: ["bug"],
       title: "",

@@ -15,7 +15,7 @@ services:
           - sermas-toolkit-api-kiosk-1
       vipp_dev:
     build: .
-    image: ghcr.io/sermas-eu/kiosk:dev
+    image: ghcr.io/gcspindox/kiosk:dev
     volumes:
       - ./:/app
       - ../sermas-toolkit-web:/sermas-toolkit-web
