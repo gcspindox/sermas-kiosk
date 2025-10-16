@@ -16,7 +16,7 @@ export const createToolkit = (config: Partial<SermasToolkitOptions>) => {
         realm: '',
     }
     auth.url = auth.url || env.PUBLIC_AUTH_URL || "/keycloak"
-    auth.realm = auth.realm || env.PUBLIC_AUTH_REALM || "sermas-local"
+    auth.realm = auth.realm || env.PUBLIC_AUTH_REALM || "vippstar-local"
 
     if (!config.auth?.clientId) {
         auth.clientId = env.PUBLIC_AUTH_CLIENT_ID || "vippstar"

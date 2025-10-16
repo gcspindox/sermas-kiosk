@@ -9,9 +9,9 @@
 <div class="wrapper is-flex is-align-items-center">
     <section class="hero overlay is-primary has-text-centered">
         <div class="hero-body">
-            <p class="title is-size-1">Welcome to the SERMAS Kiosk</p>
+            <p class="title is-size-1">Welcome to the Vippstar Kiosk</p>
             <p class="subtitle is-size-4">
-                Those pages offers a development preview of the SERMAS Toolkit.
+                Those pages offers a development preview of the Vippstar Toolkit.
             </p>
 
             <div class="block my-6 is-size-5">

@@ -29,14 +29,14 @@
 <div class="wrapper is-flex is-align-items-center">
     <section class="hero overlay is-primary has-text-centered">
         <div class="hero-body">
-            <p class="title is-size-1">Welcome to the SERMAS Kiosk</p>
+            <p class="title is-size-1">Welcome to the Vippstar Kiosk</p>
             <p class="subtitle is-size-4">
-                The SERMAS Kiosk is the home of the SERMAS Avatars.
+                The Vippstar Kiosk is the home of the Vippstar Avatars.
             </p>
 
             <div class="block my-6 is-size-5">
                 <p class="">
-                    Try the SERMAS Avatar, an agent designed to be socially
+                    Try the Vippstar Avatar, an agent designed to be socially
                     acceptable.
                 </p>
 
